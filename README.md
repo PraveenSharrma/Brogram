@@ -39,6 +39,4 @@ Built using lightweight modern tools, the app makes it easy to follow a structur
 
 ![Brogram Screenshot 2](https://raw.githubusercontent.com/PraveenSharrma/Brogram/main/screenshots/brogram2.png)
 
-
-
-
+---
