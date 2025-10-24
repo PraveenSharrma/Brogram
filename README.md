@@ -1,16 +1,51 @@
-# React + Vite
+# Brogram – The Simple 30-Day Workout Plan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://brogramworkout.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo">
+</a>
 
-Currently, two official plugins are available:
+Brogram is a focused 30-day workout training plan delivered through a clean, responsive web interface.  
+Built using lightweight modern tools, the app makes it easy to follow a structured exercise routine and stay consistent.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Highlights
+- Simple and actionable 30-day fitness program  
+- Ultra-fast development and build speeds with Vite  
+- Mobile-friendly UI for on-the-go access  
+- Minimal design with maximum clarity  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- **Framework:** React (Vite)  
+- **Languages:** JavaScript, HTML, CSS  
+- **Build / Tools:** Vite, ESLint  
+- **Hosting:** Netlify  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔑 Key Features
+- View daily workout plans across all 30 days  
+- Quick navigation between days  
+- Beginner-friendly exercise structure  
+- Works seamlessly on phones and desktops  
+
+---
+
+## 📸 Screenshots
+
+![Brogram Screenshot 1](https://raw.githubusercontent.com/PraveenSharrma/Brogram/main/screenshots/brogram.png)
+
+![Brogram Screenshot 2](https://raw.githubusercontent.com/PraveenSharrma/Brogram/main/screenshots/brogram2.png)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/PraveenSharrma/Brogram.git
+cd Brogram
+npm install
+npm run dev
+# visit http://localhost:3000 (or your local port)
