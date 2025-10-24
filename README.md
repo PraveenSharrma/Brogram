@@ -1,6 +1,6 @@
 # Brogram – The Simple 30-Day Workout Plan
 
-<a href="https://brogramworkout.netlify.app/" target="_blank">
+<a href="https://brogramworkouts.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo">
 </a>
 
